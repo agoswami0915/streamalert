@@ -14,7 +14,7 @@ Frequently Asked Questions
 
 **How much does StreamAlert cost**
 
-* StreamAlert is open source (free)
+* StreamAlert is open source (free). The cost is associated with the underlying AWS services used as part of the deployment. Please see the architecture for details on different services used.
 
 **What/How can I send data to StreamAlert?**
 
